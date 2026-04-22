@@ -6,21 +6,26 @@ I bridge the gap between complex engineering and market-ready product narratives
 
 ---
 
-### 🚀 What I'm Doing Now
-* **Global Expansion:** Architecting localized digital presence for Saudi Arabia (KSA) and Africa markets.
-* **AI Integration:** Documenting and strategizing the rollout of AI Document Readers and automated ERP features.
-* **Infrastructure:** Managing enterprise-level hosting migrations (SiteGround/Cloudflare) and low-code product facelifts.
+### 🚀 Featured Live Projects (Architecture & Design)
+
+* **[AI-Powered ERP Solutions](https://quarto-erp.com/ai-erp-solutions/)**
+    * *Role:* Designed and structured the landing page to showcase AI document scanning and automation capabilities. 
+    * *Focus:* Translating complex OCR/AI logic into benefit-driven business narratives.
+
+* **[Strategic Pricing & Module Architecture](https://quarto-erp.com/pricing/)**
+    * *Role:* Built the pricing infrastructure and module breakdown, including regional adaptations for international markets.
+    * *Focus:* UI/UX facelift and conversion-optimized layout.
+
+---
 
 ### 🛠️ Technical Toolkit
 * **Infrastructure:** Cloudflare, WordPress (Elementor), SiteGround, Domain Consolidation.
 * **AI & Data:** Label Studio (YOLO Data Labeling), Technical Briefing for AI Agents.
-* **Product:** ERP Module Design, UI/UX Facelifts, Pricing Strategy.
-* **Core:** B.Tech in Computer Science, C++, Technical Documentation.
+* **Core:** B.Tech in Computer Science, C++, Technical Documentation, Advanced Excel.
 
-### 📈 Featured Projects
-* [Quarto ERP Rebrand](https://quarto-erp.com) - Led the redesign of core modules, pricing, and global landing pages.
-* **AI Scanner Tech Brief** - Translated complex OCR/AI logic into high-impact marketing collateral.
-* **KSA Compliance Project** - Adapted ERP digital assets for Saudi Arabian regulations.
+### 📈 Current Focus
+* **Global Expansion:** Architecting localized digital presence for Saudi Arabia (KSA) and Africa markets.
+* **Product Evolution:** Leading the "facelift" of Quarto ERP’s web presence and user navigation.
 
 ---
 
