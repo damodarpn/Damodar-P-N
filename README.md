@@ -16,7 +16,14 @@ I bridge the gap between complex engineering and market-ready product narratives
     * *Role:* Built the pricing infrastructure and module breakdown, including regional adaptations for international markets.
     * *Focus:* UI/UX facelift and conversion-optimized layout.
 
----
+### 🖋️ Thought Leadership & Multimedia Production
+
+* **[Blog: Logic-Based ERP Digital Revolution](https://quarto-erp.com/2026/04/16/logic-based-erp-digital-revolution-india/)**
+    * *Insight:* An analysis of the shift toward low-code, logic-driven ERP systems in the Indian manufacturing and construction sectors.
+* **[Video: Transforming Excel into Project Intel](https://youtu.be/-t22sACWqRw)**
+    * *Production:* Wrote, produced, and narrated a deep-dive technical demo showcasing AI Document Reading and real-time cost apportionment.
+    * *Technical Focus:* Demonstrating system hierarchy manipulation, custom field mapping, and automated GST calculation.
+
 
 ### 🛠️ Technical Toolkit
 * **Infrastructure:** Cloudflare, WordPress (Elementor), SiteGround, Domain Consolidation.
